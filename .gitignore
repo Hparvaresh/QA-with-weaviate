@@ -1,0 +1,5 @@
+.python-version
+conf/.env
+.vscode
+*.ipynb
+__pycache__
