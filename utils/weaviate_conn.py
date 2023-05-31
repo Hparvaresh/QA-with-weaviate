@@ -57,6 +57,29 @@ class WeaviateConn():
             .with_limit(1)
             .do()
         )
+    def search_near_text(self, class_name, text):
+        return (
+            self.client.query
+            .get(class_name, ["text"])
+            .with_near_text(
+                {
+                "query" : [text]
+                }
+            )
+            .with_limit(1)
+            .with_additional(["distance"]).do()
+        )
+    def get_all_data(self, class_name):
+        return(
+            
+            self.client.query
+            .get(class_name, ["text", "_additional {vector}"])
+            .do()
+        )
+    
+    def search_near_vector(self, class_name, vec, fileds, certainty=0.5):
+        vec_content = {'vector':vec, 'certainty':certainty}
+        return self.client.query.get(class_name,fileds).with_near_vector(vec_content).do()
 
 
 class SingeltonWeaviateConn:

@@ -5,16 +5,16 @@ from utils.weaviate_conn import SingeltonWeaviateConn
 
 weaviateConnection = SingeltonWeaviateConn.get()
 weaviateConnection.connect() 
-weaviateConnection.creat_schema(document_class)
+# weaviateConnection.creat_schema(document_class)
 
 
-with open("./data.json") as f:
-    data = json.load(f)
+# with open("./data.json") as f:
+#     data = json.load(f)
     
-weaviateConnection.insert_custom(data)
+# weaviateConnection.insert_custom(data)
     
 ask = {
-    "question": "when iran president born?",
+    "question": "when did iran president born?",
     "properties": ["text"]
 }
 
