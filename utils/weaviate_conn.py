@@ -52,7 +52,7 @@ class WeaviateConn():
     def search_question(self, class_name, ask_query):
         return (
             self.client.query
-            .get(class_name, ["_additional {answer {hasAnswer certainty property result startPosition endPosition} }"])
+            .get(class_name, ["_additional {answer {result} }"])
             .with_ask(ask_query)
             .with_limit(1)
             .do()
@@ -60,14 +60,14 @@ class WeaviateConn():
     def search_near_text(self, class_name, text):
         return (
             self.client.query
-            .get(class_name, ["text"])
+            .get(class_name, "text")
+            .with_additional(["distance"])
             .with_near_text(
                 {
-                "query" : [text]
+                "concepts" : [text]
                 }
             )
-            .with_limit(1)
-            .with_additional(["distance"]).do()
+            .with_limit(1).do()
         )
     def get_all_data(self, class_name):
         return(

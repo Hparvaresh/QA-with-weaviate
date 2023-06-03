@@ -27,7 +27,7 @@ services:
       ENABLE_CUDA: '0'
       NVIDIA_VISIBLE_DEVICES: all
   qna-transformers:
-    image: semitechnologies/qna-transformers:bert-large-uncased-whole-word-masking-finetuned-squad
+    image: qa-farsi-inference:latest
     environment:
       ENABLE_CUDA: '0'
       NVIDIA_VISIBLE_DEVICES: all
