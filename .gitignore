@@ -3,3 +3,6 @@ conf/.env
 .vscode
 *.ipynb
 __pycache__
+ttls
+albert-fa-base-v2_pquad_and_persian_qa
+model
