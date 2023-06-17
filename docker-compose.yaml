@@ -22,7 +22,7 @@ services:
       ENABLE_MODULES: 'text2vec-transformers,qna-transformers'
       CLUSTER_HOSTNAME: 'node1'
   t2v-transformers:
-    image: distiluse-base-multilingual-cased-v1:latest
+    image: semitechnologies/transformers-inference:sentence-transformers-paraphrase-multilingual-MiniLM-L12-v2
     environment:
       ENABLE_CUDA: '0'
       NVIDIA_VISIBLE_DEVICES: all

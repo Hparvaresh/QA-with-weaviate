@@ -5,17 +5,7 @@ from utils.weaviate_conn import SingeltonWeaviateConn
 
 weaviateConnection = SingeltonWeaviateConn.get()
 weaviateConnection.connect() 
-# weaviateConnection.delSchema("Document")
-# weaviateConnection.creat_schema(document_class)
 
-
-# with open("./data.json") as f:
-#     data = json.load(f)
-    
-# weaviateConnection.insert_custom(data)
-
-result = weaviateConnection.search_near_text("Document", "او در انتخابات ریاست جمهوری ۱۳۹۶ و ۱۴۰۰ نامزد شد اما صلاحیتش مورد تأیید شورای نگهبان قرار نگرفت")
-# print(result)
-for item in result["data"]["Get"]["Document"]:
+result = weaviateConnection.search_near_text("Document_with_name","abs", "سعدی کیست")
+for item in result["data"]["Get"]["Document_with_name"]:
     print("*"*30, "\n", item, "\n\n","*"*30,)
- 
