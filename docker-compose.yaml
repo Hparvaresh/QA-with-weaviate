@@ -1,5 +1,7 @@
 version: '3.4'
+
 services:
+
   weaviate:
     command:
     - --host
@@ -11,7 +13,7 @@ services:
     image: semitechnologies/weaviate:1.19.5
     ports:
     - 8080:8080
-    restart: on-failure:0
+    restart: unless-stopped
     environment:
       TRANSFORMERS_INFERENCE_API: 'http://t2v-transformers:8080'
       QNA_INFERENCE_API: "http://qna-transformers:8080"
@@ -21,13 +23,30 @@ services:
       DEFAULT_VECTORIZER_MODULE: 'text2vec-transformers'
       ENABLE_MODULES: 'text2vec-transformers,qna-transformers'
       CLUSTER_HOSTNAME: 'node1'
+      WAIT_HOSTS_TIMEOUT: 60
+
   t2v-transformers:
     image: semitechnologies/transformers-inference:sentence-transformers-paraphrase-multilingual-MiniLM-L12-v2
     environment:
       ENABLE_CUDA: '0'
       NVIDIA_VISIBLE_DEVICES: all
+
   qna-transformers:
     image: albert-fa-base-v2_pquad_and_persian_qa:latest
     environment:
       ENABLE_CUDA: '0'
       NVIDIA_VISIBLE_DEVICES: all
+
+  weaviate_service:
+    image: weaviate_service:latest
+    build:
+      context: weaviate_service
+    container_name: weaviate_service
+    depends_on:
+      - weaviate
+    ports:
+      - 9001:8085
+    volumes:
+      - /etc/timezone:/etc/timezone:ro 
+      - /etc/localtime:/etc/localtime:ro
+      - ./weaviate_service:/app

@@ -1,7 +1,7 @@
-from conf.conf import (
+from qa_madule.conf.conf import (
     Weaviate_HOST
 )
-from utils.clean_text import CleanText
+from qa_madule.utils.clean_text import CleanText
 import weaviate
 import os
 import sys
@@ -46,7 +46,7 @@ class WeaviateConn():
                 print(f"importing event: {i+1}")
                 properties = {
                     "name": item["name"],
-                    "abs": item["abs"]
+                    "abstract": item["abstract"]
                 }
                 self.client.batch.add_data_object(properties,class_name)
     def insert_custom_sample(self, data, batch_size=100):
@@ -70,7 +70,10 @@ class WeaviateConn():
                     print(result['result']['errors']['error'])
 
     def delSchema(self, schema):
-        self.client.schema.delete_class(schema)
+        try:
+            self.client.schema.delete_class(schema)
+        except:
+            print("schema does not exist")
 
     def search_question(self, class_name, ask_query):
         return (

@@ -1,0 +1,1846 @@
+2023-06-18 09:52:35,258 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 09:52:35,259 INFO supervisord started with pid 1
+2023-06-18 09:52:36,261 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 09:52:37,263 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:52:39,055 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:52:40,058 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 09:52:41,060 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:52:42,546 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:52:43,548 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 09:52:44,549 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:52:45,920 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:52:46,921 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 09:52:47,923 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:52:49,337 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:52:50,339 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 09:52:51,340 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:52:52,690 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:52:53,692 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 09:52:54,694 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:52:56,177 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:52:57,179 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 09:52:58,180 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:52:59,541 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:00,543 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 09:53:01,544 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:02,902 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:03,904 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 09:53:04,905 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:06,239 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:07,241 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 09:53:08,242 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:09,654 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:10,656 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 09:53:11,657 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:13,073 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:14,074 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 09:53:15,076 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:16,470 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:17,472 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 09:53:18,473 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:19,989 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:20,991 INFO spawned: 'run_fastapi' with pid 228
+2023-06-18 09:53:21,992 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:23,358 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:24,360 INFO spawned: 'run_fastapi' with pid 245
+2023-06-18 09:53:25,361 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:26,785 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:27,787 INFO spawned: 'run_fastapi' with pid 262
+2023-06-18 09:53:28,788 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:30,253 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:53:31,255 INFO spawned: 'run_fastapi' with pid 279
+2023-06-18 09:53:32,256 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:53:32,256 WARN received SIGTERM indicating exit request
+2023-06-18 09:53:32,257 INFO waiting for run_fastapi to die
+2023-06-18 09:53:33,261 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 09:54:35,409 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 09:54:35,410 INFO supervisord started with pid 1
+2023-06-18 09:54:36,413 INFO spawned: 'run_fastapi' with pid 6
+2023-06-18 09:54:37,413 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:54:38,961 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:54:39,963 INFO spawned: 'run_fastapi' with pid 23
+2023-06-18 09:54:40,964 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 09:54:42,319 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 09:54:43,321 INFO spawned: 'run_fastapi' with pid 40
+2023-06-18 09:54:43,322 WARN received SIGTERM indicating exit request
+2023-06-18 09:54:43,322 INFO waiting for run_fastapi to die
+2023-06-18 09:54:45,757 WARN stopped: run_fastapi (exit status 1)
+2023-06-18 12:00:51,268 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 12:00:51,269 INFO supervisord started with pid 1
+2023-06-18 12:00:52,271 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 12:00:52,274 WARN exited: run_fastapi (exit status 127; not expected)
+2023-06-18 12:00:53,275 INFO spawned: 'run_fastapi' with pid 8
+2023-06-18 12:00:53,278 WARN exited: run_fastapi (exit status 127; not expected)
+2023-06-18 12:00:55,281 INFO spawned: 'run_fastapi' with pid 9
+2023-06-18 12:00:55,283 WARN exited: run_fastapi (exit status 127; not expected)
+2023-06-18 12:00:58,288 INFO spawned: 'run_fastapi' with pid 10
+2023-06-18 12:00:58,290 WARN exited: run_fastapi (exit status 127; not expected)
+2023-06-18 12:00:58,290 INFO gave up: run_fastapi entered FATAL state, too many start retries too quickly
+2023-06-18 12:06:28,639 WARN received SIGTERM indicating exit request
+2023-06-18 12:26:58,608 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 12:26:58,609 INFO supervisord started with pid 1
+2023-06-18 12:26:59,611 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 12:27:00,612 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:27:07,617 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:27:08,619 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 12:27:09,621 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:27:16,398 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:27:17,400 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 12:27:18,402 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:27:25,186 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:27:26,188 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 12:27:27,189 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:27:33,980 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:27:34,982 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 12:27:35,984 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:27:42,760 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:27:43,762 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 12:27:44,763 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:27:51,565 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:27:52,567 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 12:27:53,568 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:28:00,713 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:28:01,715 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 12:28:02,716 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:28:09,617 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:28:10,619 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 12:28:11,620 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:28:18,457 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:28:19,459 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 12:28:20,460 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:28:27,362 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:28:28,364 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 12:28:29,365 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:28:36,129 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:28:37,131 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 12:28:38,132 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:28:44,915 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:28:45,917 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 12:28:46,918 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:28:53,720 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:28:54,721 INFO spawned: 'run_fastapi' with pid 228
+2023-06-18 12:28:55,723 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:29:02,506 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:29:03,508 INFO spawned: 'run_fastapi' with pid 245
+2023-06-18 12:29:04,509 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:29:11,277 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:29:12,279 INFO spawned: 'run_fastapi' with pid 262
+2023-06-18 12:29:13,280 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:29:20,090 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:29:21,092 INFO spawned: 'run_fastapi' with pid 279
+2023-06-18 12:29:22,094 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:29:28,884 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:29:29,886 INFO spawned: 'run_fastapi' with pid 296
+2023-06-18 12:29:30,888 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:29:37,695 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:29:38,697 INFO spawned: 'run_fastapi' with pid 313
+2023-06-18 12:29:39,698 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:29:46,469 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:29:47,471 INFO spawned: 'run_fastapi' with pid 330
+2023-06-18 12:29:48,472 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:29:55,264 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:29:56,265 INFO spawned: 'run_fastapi' with pid 347
+2023-06-18 12:29:57,267 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:30:04,078 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:30:05,080 INFO spawned: 'run_fastapi' with pid 364
+2023-06-18 12:30:06,081 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:30:12,864 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:30:13,865 INFO spawned: 'run_fastapi' with pid 381
+2023-06-18 12:30:14,867 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:30:21,630 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:30:22,632 INFO spawned: 'run_fastapi' with pid 398
+2023-06-18 12:30:23,633 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:30:30,416 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:30:31,417 INFO spawned: 'run_fastapi' with pid 415
+2023-06-18 12:30:32,419 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:30:39,182 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:30:40,184 INFO spawned: 'run_fastapi' with pid 432
+2023-06-18 12:30:41,185 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:30:47,920 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:30:48,922 INFO spawned: 'run_fastapi' with pid 449
+2023-06-18 12:30:49,924 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:30:56,667 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:30:57,669 INFO spawned: 'run_fastapi' with pid 466
+2023-06-18 12:30:58,670 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:31:05,433 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:31:06,435 INFO spawned: 'run_fastapi' with pid 483
+2023-06-18 12:31:07,437 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:31:14,198 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:31:15,200 INFO spawned: 'run_fastapi' with pid 500
+2023-06-18 12:31:15,200 WARN received SIGTERM indicating exit request
+2023-06-18 12:31:15,200 INFO waiting for run_fastapi to die
+2023-06-18 12:31:18,203 INFO waiting for run_fastapi to die
+2023-06-18 12:31:21,206 INFO waiting for run_fastapi to die
+2023-06-18 12:31:22,985 WARN stopped: run_fastapi (exit status 1)
+2023-06-18 12:31:48,687 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 12:31:48,688 INFO supervisord started with pid 1
+2023-06-18 12:31:49,689 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 12:31:50,691 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:31:57,672 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:31:58,674 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 12:31:59,675 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:32:06,444 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:32:07,445 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 12:32:08,447 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:32:15,196 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:32:16,198 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 12:32:17,199 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:32:23,943 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:32:24,944 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 12:32:25,945 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:32:32,711 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:32:33,713 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 12:32:34,715 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:32:41,470 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:32:42,472 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 12:32:43,473 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:32:50,215 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:32:51,217 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 12:32:52,219 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:32:58,972 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:32:59,974 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 12:33:00,975 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:33:07,825 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:33:08,827 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 12:33:09,828 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:33:16,575 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:33:17,577 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 12:33:18,578 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:33:25,416 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:33:26,418 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 12:33:27,419 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:33:34,222 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:33:35,224 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 12:33:36,226 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:33:42,986 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:33:43,988 INFO spawned: 'run_fastapi' with pid 228
+2023-06-18 12:33:44,460 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:33:45,461 INFO spawned: 'run_fastapi' with pid 229
+2023-06-18 12:33:46,463 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:33:53,266 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:33:54,268 INFO spawned: 'run_fastapi' with pid 246
+2023-06-18 12:33:55,269 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:34:02,043 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:34:03,045 INFO spawned: 'run_fastapi' with pid 263
+2023-06-18 12:34:04,047 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:34:10,865 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:34:11,867 INFO spawned: 'run_fastapi' with pid 280
+2023-06-18 12:34:12,869 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:34:19,622 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:34:20,624 INFO spawned: 'run_fastapi' with pid 297
+2023-06-18 12:34:21,081 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:34:22,083 INFO spawned: 'run_fastapi' with pid 298
+2023-06-18 12:34:22,558 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:34:24,561 INFO spawned: 'run_fastapi' with pid 299
+2023-06-18 12:34:25,003 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:34:28,006 INFO spawned: 'run_fastapi' with pid 300
+2023-06-18 12:34:28,450 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:34:29,451 INFO gave up: run_fastapi entered FATAL state, too many start retries too quickly
+2023-06-18 12:35:06,489 WARN received SIGTERM indicating exit request
+2023-06-18 12:35:29,843 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 12:35:29,844 INFO supervisord started with pid 1
+2023-06-18 12:35:30,846 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 12:35:31,849 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:35:38,796 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:35:39,797 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 12:35:40,799 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:35:47,565 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:35:48,568 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 12:35:49,569 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:35:56,313 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:35:57,316 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 12:35:58,317 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:36:05,163 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:36:06,165 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 12:36:07,166 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:36:13,911 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:36:14,913 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 12:36:15,914 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:36:22,660 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:36:23,661 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 12:36:24,663 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:36:31,411 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:36:32,413 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 12:36:33,414 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:36:40,192 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:36:41,194 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 12:36:42,195 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:36:48,948 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:36:49,950 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 12:36:50,951 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:36:57,694 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:36:58,696 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 12:36:59,698 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:37:06,449 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:37:07,451 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 12:37:08,453 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:37:15,177 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:37:16,179 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 12:37:17,181 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:37:23,925 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:37:24,927 INFO spawned: 'run_fastapi' with pid 228
+2023-06-18 12:37:25,928 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:37:32,678 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:37:33,680 INFO spawned: 'run_fastapi' with pid 245
+2023-06-18 12:37:34,681 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:37:41,409 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:37:42,411 INFO spawned: 'run_fastapi' with pid 262
+2023-06-18 12:37:43,412 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:37:50,151 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:37:51,153 INFO spawned: 'run_fastapi' with pid 279
+2023-06-18 12:37:52,154 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:37:58,901 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:37:59,903 INFO spawned: 'run_fastapi' with pid 296
+2023-06-18 12:38:00,904 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:38:05,909 WARN received SIGTERM indicating exit request
+2023-06-18 12:38:05,909 INFO waiting for run_fastapi to die
+2023-06-18 12:38:06,919 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 12:40:45,746 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 12:40:45,747 INFO supervisord started with pid 1
+2023-06-18 12:40:46,749 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 12:40:47,277 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:40:48,278 INFO spawned: 'run_fastapi' with pid 8
+2023-06-18 12:40:48,741 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:40:50,744 INFO spawned: 'run_fastapi' with pid 9
+2023-06-18 12:40:51,195 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:40:54,199 INFO spawned: 'run_fastapi' with pid 10
+2023-06-18 12:40:54,650 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:40:55,652 INFO gave up: run_fastapi entered FATAL state, too many start retries too quickly
+2023-06-18 12:41:28,688 WARN received SIGTERM indicating exit request
+2023-06-18 12:43:22,438 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 12:43:22,439 INFO supervisord started with pid 1
+2023-06-18 12:43:23,441 INFO spawned: 'run_fastapi' with pid 6
+2023-06-18 12:43:24,442 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:43:31,397 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:43:32,399 INFO spawned: 'run_fastapi' with pid 23
+2023-06-18 12:43:33,401 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:43:40,168 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:43:41,170 INFO spawned: 'run_fastapi' with pid 40
+2023-06-18 12:43:42,171 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:43:48,926 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:43:49,927 INFO spawned: 'run_fastapi' with pid 57
+2023-06-18 12:43:50,929 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:43:57,688 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:43:58,690 INFO spawned: 'run_fastapi' with pid 74
+2023-06-18 12:43:59,692 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:44:06,475 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:44:07,477 INFO spawned: 'run_fastapi' with pid 91
+2023-06-18 12:44:08,478 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:44:15,278 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:44:16,279 INFO spawned: 'run_fastapi' with pid 108
+2023-06-18 12:44:17,281 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:44:24,079 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:44:25,081 INFO spawned: 'run_fastapi' with pid 125
+2023-06-18 12:44:26,082 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:44:32,906 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:44:33,908 INFO spawned: 'run_fastapi' with pid 142
+2023-06-18 12:44:34,910 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:44:41,648 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:44:42,650 INFO spawned: 'run_fastapi' with pid 159
+2023-06-18 12:44:43,652 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:44:46,655 WARN received SIGTERM indicating exit request
+2023-06-18 12:44:46,655 INFO waiting for run_fastapi to die
+2023-06-18 12:44:47,664 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 12:47:46,348 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 12:47:46,349 INFO supervisord started with pid 1
+2023-06-18 12:47:47,351 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 12:47:48,352 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:47:55,300 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:47:56,302 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 12:47:57,303 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:48:04,053 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:48:05,055 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 12:48:06,057 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:48:12,787 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:48:13,789 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 12:48:14,791 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:48:21,573 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:48:22,575 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 12:48:23,576 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:48:30,341 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:48:31,343 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 12:48:32,344 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:48:39,114 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 12:48:40,116 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 12:48:41,117 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 12:48:43,119 WARN received SIGTERM indicating exit request
+2023-06-18 12:48:43,119 INFO waiting for run_fastapi to die
+2023-06-18 12:48:44,128 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 13:03:31,014 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 13:03:31,015 INFO supervisord started with pid 1
+2023-06-18 13:03:32,017 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 13:03:33,017 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:03:39,981 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:03:40,983 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 13:03:41,984 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:03:48,755 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:03:49,757 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 13:03:50,759 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:03:57,511 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:03:58,513 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 13:03:59,514 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:04:06,439 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:04:07,441 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 13:04:08,442 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:04:15,253 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:04:16,254 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 13:04:17,256 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:04:23,998 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:04:25,000 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 13:04:26,001 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:04:32,719 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:04:33,721 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 13:04:34,723 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:04:41,453 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:04:42,455 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 13:04:43,456 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:04:50,214 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:04:51,216 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 13:04:52,217 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:04:58,963 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:04:59,965 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 13:05:00,966 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:05:07,721 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:05:08,723 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 13:05:09,724 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:05:16,564 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:05:17,565 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 13:05:18,567 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:05:18,567 WARN received SIGTERM indicating exit request
+2023-06-18 13:05:18,567 INFO waiting for run_fastapi to die
+2023-06-18 13:05:19,573 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 13:06:09,280 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 13:06:09,282 INFO supervisord started with pid 1
+2023-06-18 13:06:10,283 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 13:06:11,285 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:06:18,183 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:06:19,185 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 13:06:20,186 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:06:27,035 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:06:28,037 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 13:06:29,039 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:06:35,776 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:06:36,778 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 13:06:37,778 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:06:44,505 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:06:45,507 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 13:06:46,508 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:06:53,237 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:06:54,239 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 13:06:55,240 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:07:02,103 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:07:03,105 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 13:07:04,107 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:07:10,838 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:07:11,840 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 13:07:12,841 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:07:19,724 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:07:20,726 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 13:07:21,727 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:07:28,447 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:07:29,449 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 13:07:30,450 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:07:37,279 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:07:38,281 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 13:07:39,282 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:07:46,136 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:07:47,137 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 13:07:48,139 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:07:54,875 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:07:55,877 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 13:07:56,878 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:08:03,753 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:08:04,755 INFO spawned: 'run_fastapi' with pid 228
+2023-06-18 13:08:05,756 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:08:12,481 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:08:13,483 INFO spawned: 'run_fastapi' with pid 245
+2023-06-18 13:08:14,484 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:08:21,211 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:08:22,213 INFO spawned: 'run_fastapi' with pid 262
+2023-06-18 13:08:23,215 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:08:29,941 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:08:30,943 INFO spawned: 'run_fastapi' with pid 279
+2023-06-18 13:08:31,944 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:08:38,632 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:08:39,634 INFO spawned: 'run_fastapi' with pid 296
+2023-06-18 13:08:40,635 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:08:47,357 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:08:48,358 INFO spawned: 'run_fastapi' with pid 313
+2023-06-18 13:08:49,360 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:08:56,069 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:08:57,071 INFO spawned: 'run_fastapi' with pid 330
+2023-06-18 13:08:58,073 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:09:04,786 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:09:05,788 INFO spawned: 'run_fastapi' with pid 347
+2023-06-18 13:09:06,790 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:09:13,542 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:09:14,544 INFO spawned: 'run_fastapi' with pid 364
+2023-06-18 13:09:15,545 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:09:22,272 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:09:23,273 INFO spawned: 'run_fastapi' with pid 381
+2023-06-18 13:09:24,274 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:09:31,065 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:09:32,067 INFO spawned: 'run_fastapi' with pid 398
+2023-06-18 13:09:33,068 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:09:39,878 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:09:40,880 INFO spawned: 'run_fastapi' with pid 415
+2023-06-18 13:09:41,881 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:09:48,644 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:09:49,645 INFO spawned: 'run_fastapi' with pid 432
+2023-06-18 13:09:50,647 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:09:57,444 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:09:58,446 INFO spawned: 'run_fastapi' with pid 449
+2023-06-18 13:09:59,447 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:10:06,165 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:10:07,167 INFO spawned: 'run_fastapi' with pid 466
+2023-06-18 13:10:08,168 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:10:14,894 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:10:15,896 INFO spawned: 'run_fastapi' with pid 483
+2023-06-18 13:10:16,897 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:10:23,624 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:10:24,625 INFO spawned: 'run_fastapi' with pid 500
+2023-06-18 13:10:25,626 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:10:32,331 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:10:33,333 INFO spawned: 'run_fastapi' with pid 517
+2023-06-18 13:10:34,335 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:10:41,041 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:10:42,043 INFO spawned: 'run_fastapi' with pid 534
+2023-06-18 13:10:43,045 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:10:49,758 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:10:50,760 INFO spawned: 'run_fastapi' with pid 551
+2023-06-18 13:10:51,761 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:10:58,592 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:10:59,594 INFO spawned: 'run_fastapi' with pid 568
+2023-06-18 13:11:00,595 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:11:07,385 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:11:08,387 INFO spawned: 'run_fastapi' with pid 585
+2023-06-18 13:11:09,389 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:11:16,157 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:11:17,159 INFO spawned: 'run_fastapi' with pid 602
+2023-06-18 13:11:18,160 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:11:24,865 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:11:25,866 INFO spawned: 'run_fastapi' with pid 619
+2023-06-18 13:11:26,868 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:11:33,605 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:11:34,607 INFO spawned: 'run_fastapi' with pid 636
+2023-06-18 13:11:35,608 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:11:42,358 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:11:43,360 INFO spawned: 'run_fastapi' with pid 653
+2023-06-18 13:11:44,361 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:11:51,168 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:11:52,170 INFO spawned: 'run_fastapi' with pid 670
+2023-06-18 13:11:53,171 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:11:59,981 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:12:00,983 INFO spawned: 'run_fastapi' with pid 687
+2023-06-18 13:12:01,984 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:12:03,986 WARN received SIGTERM indicating exit request
+2023-06-18 13:12:03,986 INFO waiting for run_fastapi to die
+2023-06-18 13:12:04,995 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 13:13:16,252 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 13:13:16,253 INFO supervisord started with pid 1
+2023-06-18 13:13:17,255 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 13:13:18,256 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:13:25,110 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:13:26,112 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 13:13:27,113 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:13:33,837 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:13:34,839 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 13:13:35,840 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:13:40,846 WARN received SIGTERM indicating exit request
+2023-06-18 13:13:40,846 INFO waiting for run_fastapi to die
+2023-06-18 13:13:41,856 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 13:13:56,086 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 13:13:56,087 INFO supervisord started with pid 1
+2023-06-18 13:13:57,089 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 13:13:58,091 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:14:05,001 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:14:06,003 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 13:14:07,005 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:14:13,715 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:14:14,717 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 13:14:15,719 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:14:22,433 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:14:23,435 INFO spawned: 'run_fastapi' with pid 65
+2023-06-18 13:14:24,436 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:14:31,365 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:14:32,367 INFO spawned: 'run_fastapi' with pid 82
+2023-06-18 13:14:33,368 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:14:40,086 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:14:41,088 INFO spawned: 'run_fastapi' with pid 99
+2023-06-18 13:14:42,089 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:14:48,780 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:14:49,782 INFO spawned: 'run_fastapi' with pid 116
+2023-06-18 13:14:50,783 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:14:57,487 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:14:58,489 INFO spawned: 'run_fastapi' with pid 134
+2023-06-18 13:14:59,491 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:15:06,211 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:15:07,212 INFO spawned: 'run_fastapi' with pid 151
+2023-06-18 13:15:08,214 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:15:15,006 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:15:16,008 INFO spawned: 'run_fastapi' with pid 168
+2023-06-18 13:15:17,010 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:15:23,734 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:15:24,736 INFO spawned: 'run_fastapi' with pid 185
+2023-06-18 13:15:25,738 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:15:32,541 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:15:33,543 INFO spawned: 'run_fastapi' with pid 202
+2023-06-18 13:15:34,544 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:15:41,312 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:15:42,314 INFO spawned: 'run_fastapi' with pid 219
+2023-06-18 13:15:43,315 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:15:50,129 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:15:51,131 INFO spawned: 'run_fastapi' with pid 237
+2023-06-18 13:15:52,132 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:15:58,839 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:15:59,841 INFO spawned: 'run_fastapi' with pid 254
+2023-06-18 13:16:00,842 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:16:07,696 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:16:08,698 INFO spawned: 'run_fastapi' with pid 271
+2023-06-18 13:16:09,699 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:16:16,474 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:16:17,476 INFO spawned: 'run_fastapi' with pid 288
+2023-06-18 13:16:18,478 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:16:25,196 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:16:26,198 INFO spawned: 'run_fastapi' with pid 305
+2023-06-18 13:16:27,200 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:16:33,930 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:16:34,932 INFO spawned: 'run_fastapi' with pid 322
+2023-06-18 13:16:35,934 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:16:42,647 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:16:43,649 INFO spawned: 'run_fastapi' with pid 340
+2023-06-18 13:16:44,651 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:16:51,371 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:16:52,373 INFO spawned: 'run_fastapi' with pid 358
+2023-06-18 13:16:53,374 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:17:00,213 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:17:01,216 INFO spawned: 'run_fastapi' with pid 375
+2023-06-18 13:17:02,217 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:17:08,920 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:17:09,922 INFO spawned: 'run_fastapi' with pid 392
+2023-06-18 13:17:10,923 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:17:17,627 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:17:18,629 INFO spawned: 'run_fastapi' with pid 409
+2023-06-18 13:17:19,631 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:17:26,357 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:17:27,359 INFO spawned: 'run_fastapi' with pid 426
+2023-06-18 13:17:28,361 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:17:35,084 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:17:36,086 INFO spawned: 'run_fastapi' with pid 444
+2023-06-18 13:17:37,087 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:17:43,790 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:17:44,792 INFO spawned: 'run_fastapi' with pid 461
+2023-06-18 13:17:45,793 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:17:52,507 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:17:53,509 INFO spawned: 'run_fastapi' with pid 479
+2023-06-18 13:17:54,510 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:18:01,215 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:18:02,217 INFO spawned: 'run_fastapi' with pid 497
+2023-06-18 13:18:03,218 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:18:09,935 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:18:10,937 INFO spawned: 'run_fastapi' with pid 514
+2023-06-18 13:18:11,938 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:18:18,710 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:18:19,713 INFO spawned: 'run_fastapi' with pid 531
+2023-06-18 13:18:20,714 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:18:27,451 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:18:28,453 INFO spawned: 'run_fastapi' with pid 548
+2023-06-18 13:18:29,455 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:18:36,216 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:18:37,217 INFO spawned: 'run_fastapi' with pid 565
+2023-06-18 13:18:38,219 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:18:39,221 WARN received SIGTERM indicating exit request
+2023-06-18 13:18:39,221 INFO waiting for run_fastapi to die
+2023-06-18 13:18:40,229 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 13:19:14,551 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 13:19:14,552 INFO supervisord started with pid 1
+2023-06-18 13:19:15,554 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 13:19:16,555 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:19:23,425 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:19:24,427 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 13:19:25,429 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:19:32,129 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:19:33,131 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 13:19:34,132 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:19:40,830 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:19:41,832 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 13:19:42,833 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:19:44,835 WARN received SIGTERM indicating exit request
+2023-06-18 13:19:44,835 INFO waiting for run_fastapi to die
+2023-06-18 13:19:45,844 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 13:20:08,482 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 13:20:08,483 INFO supervisord started with pid 1
+2023-06-18 13:20:09,485 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 13:20:10,486 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:20:17,379 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:20:18,381 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 13:20:19,382 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:20:26,109 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:20:27,111 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 13:20:28,112 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:20:34,817 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:20:35,819 INFO spawned: 'run_fastapi' with pid 65
+2023-06-18 13:20:36,820 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:20:43,575 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:20:44,577 INFO spawned: 'run_fastapi' with pid 82
+2023-06-18 13:20:45,579 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:20:52,302 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:20:53,304 INFO spawned: 'run_fastapi' with pid 100
+2023-06-18 13:20:54,306 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:21:01,004 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:21:02,005 INFO spawned: 'run_fastapi' with pid 118
+2023-06-18 13:21:03,007 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:21:09,717 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:21:10,719 INFO spawned: 'run_fastapi' with pid 137
+2023-06-18 13:21:11,720 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:21:18,448 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:21:19,449 INFO spawned: 'run_fastapi' with pid 155
+2023-06-18 13:21:20,451 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:21:27,160 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:21:28,161 INFO spawned: 'run_fastapi' with pid 172
+2023-06-18 13:21:29,163 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:21:35,880 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:21:36,881 INFO spawned: 'run_fastapi' with pid 190
+2023-06-18 13:21:37,883 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:21:44,656 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:21:45,657 INFO spawned: 'run_fastapi' with pid 207
+2023-06-18 13:21:46,659 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:21:53,377 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:21:54,379 INFO spawned: 'run_fastapi' with pid 224
+2023-06-18 13:21:55,380 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:22:02,097 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:22:03,099 INFO spawned: 'run_fastapi' with pid 241
+2023-06-18 13:22:04,101 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:22:10,804 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:22:11,806 INFO spawned: 'run_fastapi' with pid 258
+2023-06-18 13:22:12,808 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:22:19,584 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:22:20,586 INFO spawned: 'run_fastapi' with pid 275
+2023-06-18 13:22:21,588 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:22:28,339 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:22:29,341 INFO spawned: 'run_fastapi' with pid 292
+2023-06-18 13:22:30,342 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:22:37,038 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:22:38,040 INFO spawned: 'run_fastapi' with pid 309
+2023-06-18 13:22:39,042 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:22:45,888 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:22:46,890 INFO spawned: 'run_fastapi' with pid 326
+2023-06-18 13:22:47,892 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:22:54,596 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:22:55,598 INFO spawned: 'run_fastapi' with pid 343
+2023-06-18 13:22:56,599 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:23:03,294 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:23:04,296 INFO spawned: 'run_fastapi' with pid 360
+2023-06-18 13:23:05,297 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:23:11,993 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:23:12,995 INFO spawned: 'run_fastapi' with pid 377
+2023-06-18 13:23:13,996 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:23:20,686 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:23:21,688 INFO spawned: 'run_fastapi' with pid 394
+2023-06-18 13:23:22,690 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:23:29,394 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:23:30,396 INFO spawned: 'run_fastapi' with pid 411
+2023-06-18 13:23:31,397 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:23:38,099 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:23:39,100 INFO spawned: 'run_fastapi' with pid 428
+2023-06-18 13:23:40,101 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:23:46,780 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:23:47,782 INFO spawned: 'run_fastapi' with pid 445
+2023-06-18 13:23:48,784 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:23:55,477 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:23:56,479 INFO spawned: 'run_fastapi' with pid 462
+2023-06-18 13:23:57,481 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:24:04,173 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:24:05,175 INFO spawned: 'run_fastapi' with pid 479
+2023-06-18 13:24:06,176 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:24:12,869 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:24:13,871 INFO spawned: 'run_fastapi' with pid 496
+2023-06-18 13:24:14,872 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:24:21,565 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:24:22,567 INFO spawned: 'run_fastapi' with pid 513
+2023-06-18 13:24:23,568 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:24:30,253 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:24:31,255 INFO spawned: 'run_fastapi' with pid 530
+2023-06-18 13:24:32,257 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:24:38,959 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:24:39,961 INFO spawned: 'run_fastapi' with pid 547
+2023-06-18 13:24:40,962 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:24:47,657 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:24:48,659 INFO spawned: 'run_fastapi' with pid 564
+2023-06-18 13:24:49,660 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:24:56,352 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:24:57,354 INFO spawned: 'run_fastapi' with pid 581
+2023-06-18 13:24:58,355 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:25:05,046 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:25:06,048 INFO spawned: 'run_fastapi' with pid 598
+2023-06-18 13:25:07,049 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:25:13,752 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:25:14,753 INFO spawned: 'run_fastapi' with pid 615
+2023-06-18 13:25:15,755 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:25:22,445 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:25:23,447 INFO spawned: 'run_fastapi' with pid 632
+2023-06-18 13:25:24,448 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:25:31,137 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:25:32,139 INFO spawned: 'run_fastapi' with pid 649
+2023-06-18 13:25:33,140 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:25:39,834 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:25:40,836 INFO spawned: 'run_fastapi' with pid 666
+2023-06-18 13:25:41,838 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:25:48,526 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:25:49,528 INFO spawned: 'run_fastapi' with pid 683
+2023-06-18 13:25:50,530 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:25:57,228 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:25:58,230 INFO spawned: 'run_fastapi' with pid 700
+2023-06-18 13:25:59,231 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:26:05,937 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:26:06,939 INFO spawned: 'run_fastapi' with pid 717
+2023-06-18 13:26:07,940 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:26:14,642 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:26:15,644 INFO spawned: 'run_fastapi' with pid 734
+2023-06-18 13:26:16,645 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:26:23,342 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:26:24,344 INFO spawned: 'run_fastapi' with pid 751
+2023-06-18 13:26:25,345 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:26:32,069 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:26:33,071 INFO spawned: 'run_fastapi' with pid 768
+2023-06-18 13:26:34,072 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:26:40,759 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:26:41,761 INFO spawned: 'run_fastapi' with pid 785
+2023-06-18 13:26:42,762 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:26:49,450 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:26:50,452 INFO spawned: 'run_fastapi' with pid 802
+2023-06-18 13:26:51,454 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:26:58,149 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:26:59,151 INFO spawned: 'run_fastapi' with pid 819
+2023-06-18 13:27:00,152 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:27:06,851 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:27:07,852 INFO spawned: 'run_fastapi' with pid 836
+2023-06-18 13:27:08,854 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:27:15,561 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:27:16,563 INFO spawned: 'run_fastapi' with pid 853
+2023-06-18 13:27:17,564 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:27:24,250 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:27:25,252 INFO spawned: 'run_fastapi' with pid 870
+2023-06-18 13:27:26,253 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:27:32,936 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:27:33,938 INFO spawned: 'run_fastapi' with pid 887
+2023-06-18 13:27:34,939 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:27:41,633 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:27:42,635 INFO spawned: 'run_fastapi' with pid 904
+2023-06-18 13:27:43,636 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:27:50,329 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:27:51,331 INFO spawned: 'run_fastapi' with pid 921
+2023-06-18 13:27:52,332 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:27:59,037 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:28:00,039 INFO spawned: 'run_fastapi' with pid 938
+2023-06-18 13:28:01,040 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:28:07,734 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:28:08,736 INFO spawned: 'run_fastapi' with pid 955
+2023-06-18 13:28:09,737 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:28:16,432 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:28:17,433 INFO spawned: 'run_fastapi' with pid 972
+2023-06-18 13:28:18,434 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:28:25,137 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:28:26,139 INFO spawned: 'run_fastapi' with pid 989
+2023-06-18 13:28:27,140 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:28:33,858 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:28:34,860 INFO spawned: 'run_fastapi' with pid 1006
+2023-06-18 13:28:35,861 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:28:42,564 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:28:43,566 INFO spawned: 'run_fastapi' with pid 1023
+2023-06-18 13:28:44,567 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:28:51,283 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:28:52,285 INFO spawned: 'run_fastapi' with pid 1040
+2023-06-18 13:28:53,286 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:28:59,993 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:29:00,995 INFO spawned: 'run_fastapi' with pid 1057
+2023-06-18 13:29:01,997 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:29:08,672 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:29:09,674 INFO spawned: 'run_fastapi' with pid 1074
+2023-06-18 13:29:10,675 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:29:17,366 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:29:18,368 INFO spawned: 'run_fastapi' with pid 1091
+2023-06-18 13:29:19,369 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:29:26,090 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:29:27,092 INFO spawned: 'run_fastapi' with pid 1108
+2023-06-18 13:29:28,094 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:29:34,771 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:29:35,773 INFO spawned: 'run_fastapi' with pid 1125
+2023-06-18 13:29:36,775 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:29:43,476 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:29:44,478 INFO spawned: 'run_fastapi' with pid 1142
+2023-06-18 13:29:45,480 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:29:52,178 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:29:53,180 INFO spawned: 'run_fastapi' with pid 1159
+2023-06-18 13:29:54,181 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:30:00,879 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:30:01,881 INFO spawned: 'run_fastapi' with pid 1176
+2023-06-18 13:30:02,882 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:30:09,596 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:30:10,597 INFO spawned: 'run_fastapi' with pid 1193
+2023-06-18 13:30:11,599 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:30:18,304 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:30:19,305 INFO spawned: 'run_fastapi' with pid 1210
+2023-06-18 13:30:20,307 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:30:27,009 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:30:28,011 INFO spawned: 'run_fastapi' with pid 1227
+2023-06-18 13:30:29,013 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:30:35,725 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:30:36,727 INFO spawned: 'run_fastapi' with pid 1244
+2023-06-18 13:30:37,728 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:30:44,429 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:30:45,431 INFO spawned: 'run_fastapi' with pid 1261
+2023-06-18 13:30:46,433 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:30:53,138 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:30:54,140 INFO spawned: 'run_fastapi' with pid 1278
+2023-06-18 13:30:55,142 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:31:01,862 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:31:02,864 INFO spawned: 'run_fastapi' with pid 1295
+2023-06-18 13:31:03,865 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:31:10,548 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:31:11,550 INFO spawned: 'run_fastapi' with pid 1312
+2023-06-18 13:31:12,552 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:31:19,275 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:31:20,277 INFO spawned: 'run_fastapi' with pid 1329
+2023-06-18 13:31:21,278 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:31:27,982 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:31:28,984 INFO spawned: 'run_fastapi' with pid 1346
+2023-06-18 13:31:29,985 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:31:36,669 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:31:37,671 INFO spawned: 'run_fastapi' with pid 1363
+2023-06-18 13:31:38,672 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:31:45,387 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:31:46,389 INFO spawned: 'run_fastapi' with pid 1380
+2023-06-18 13:31:47,390 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:31:54,121 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:31:55,123 INFO spawned: 'run_fastapi' with pid 1397
+2023-06-18 13:31:56,125 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:32:02,824 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:32:03,826 INFO spawned: 'run_fastapi' with pid 1414
+2023-06-18 13:32:04,828 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:32:11,537 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:32:12,539 INFO spawned: 'run_fastapi' with pid 1431
+2023-06-18 13:32:13,540 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:32:20,233 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:32:21,235 INFO spawned: 'run_fastapi' with pid 1448
+2023-06-18 13:32:22,236 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:32:28,925 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:32:29,926 INFO spawned: 'run_fastapi' with pid 1465
+2023-06-18 13:32:30,928 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:32:37,633 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:32:38,635 INFO spawned: 'run_fastapi' with pid 1482
+2023-06-18 13:32:39,636 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:32:46,329 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:32:47,331 INFO spawned: 'run_fastapi' with pid 1499
+2023-06-18 13:32:48,332 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:32:55,024 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:32:56,025 INFO spawned: 'run_fastapi' with pid 1516
+2023-06-18 13:32:57,027 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:33:03,724 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:33:04,726 INFO spawned: 'run_fastapi' with pid 1533
+2023-06-18 13:33:05,727 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:33:12,435 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:33:13,437 INFO spawned: 'run_fastapi' with pid 1550
+2023-06-18 13:33:14,438 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:33:21,132 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:33:22,134 INFO spawned: 'run_fastapi' with pid 1567
+2023-06-18 13:33:23,135 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:33:29,858 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:33:30,860 INFO spawned: 'run_fastapi' with pid 1584
+2023-06-18 13:33:31,861 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:33:38,553 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:33:39,555 INFO spawned: 'run_fastapi' with pid 1601
+2023-06-18 13:33:40,556 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:33:47,270 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:33:48,272 INFO spawned: 'run_fastapi' with pid 1618
+2023-06-18 13:33:49,273 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:33:55,968 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:33:56,969 INFO spawned: 'run_fastapi' with pid 1635
+2023-06-18 13:33:57,971 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:34:04,665 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:34:05,667 INFO spawned: 'run_fastapi' with pid 1652
+2023-06-18 13:34:06,668 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:34:13,367 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:34:14,369 INFO spawned: 'run_fastapi' with pid 1669
+2023-06-18 13:34:15,370 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:34:22,085 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:34:23,087 INFO spawned: 'run_fastapi' with pid 1686
+2023-06-18 13:34:24,088 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:34:30,791 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:34:31,793 INFO spawned: 'run_fastapi' with pid 1703
+2023-06-18 13:34:32,795 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:34:39,502 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:34:40,504 INFO spawned: 'run_fastapi' with pid 1720
+2023-06-18 13:34:41,505 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:34:48,203 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:34:49,205 INFO spawned: 'run_fastapi' with pid 1737
+2023-06-18 13:34:50,206 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:34:56,902 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:34:57,904 INFO spawned: 'run_fastapi' with pid 1754
+2023-06-18 13:34:58,905 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:35:05,600 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:35:06,602 INFO spawned: 'run_fastapi' with pid 1771
+2023-06-18 13:35:07,603 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:35:14,297 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:35:15,299 INFO spawned: 'run_fastapi' with pid 1788
+2023-06-18 13:35:16,300 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:35:22,986 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:35:23,988 INFO spawned: 'run_fastapi' with pid 1805
+2023-06-18 13:35:24,989 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:35:31,705 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:35:32,707 INFO spawned: 'run_fastapi' with pid 1822
+2023-06-18 13:35:33,708 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:35:40,429 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:35:41,431 INFO spawned: 'run_fastapi' with pid 1839
+2023-06-18 13:35:42,433 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:35:49,134 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:35:50,136 INFO spawned: 'run_fastapi' with pid 1856
+2023-06-18 13:35:51,137 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:35:57,861 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:35:58,863 INFO spawned: 'run_fastapi' with pid 1873
+2023-06-18 13:35:59,864 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:36:06,553 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:36:07,555 INFO spawned: 'run_fastapi' with pid 1890
+2023-06-18 13:36:08,556 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:36:15,249 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:36:16,251 INFO spawned: 'run_fastapi' with pid 1907
+2023-06-18 13:36:17,252 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:36:23,961 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:36:24,963 INFO spawned: 'run_fastapi' with pid 1924
+2023-06-18 13:36:25,964 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:36:32,645 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:36:33,647 INFO spawned: 'run_fastapi' with pid 1941
+2023-06-18 13:36:34,648 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:36:41,346 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:36:42,348 INFO spawned: 'run_fastapi' with pid 1958
+2023-06-18 13:36:43,349 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:36:50,082 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:36:51,084 INFO spawned: 'run_fastapi' with pid 1975
+2023-06-18 13:36:52,085 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:36:58,772 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:36:59,774 INFO spawned: 'run_fastapi' with pid 1992
+2023-06-18 13:37:00,775 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:37:07,503 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:37:08,505 INFO spawned: 'run_fastapi' with pid 2009
+2023-06-18 13:37:09,507 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:37:16,215 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:37:17,217 INFO spawned: 'run_fastapi' with pid 2026
+2023-06-18 13:37:18,218 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:37:24,922 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:37:25,924 INFO spawned: 'run_fastapi' with pid 2043
+2023-06-18 13:37:26,925 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:37:33,645 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:37:34,647 INFO spawned: 'run_fastapi' with pid 2060
+2023-06-18 13:37:35,648 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:37:42,365 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:37:43,367 INFO spawned: 'run_fastapi' with pid 2077
+2023-06-18 13:37:44,369 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:37:51,119 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:37:52,121 INFO spawned: 'run_fastapi' with pid 2094
+2023-06-18 13:37:53,123 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:37:59,801 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:38:00,803 INFO spawned: 'run_fastapi' with pid 2111
+2023-06-18 13:38:01,805 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:38:08,485 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:38:09,487 INFO spawned: 'run_fastapi' with pid 2128
+2023-06-18 13:38:10,488 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:38:17,175 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:38:18,177 INFO spawned: 'run_fastapi' with pid 2145
+2023-06-18 13:38:19,178 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:38:25,863 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:38:26,865 INFO spawned: 'run_fastapi' with pid 2162
+2023-06-18 13:38:27,866 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:38:34,547 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:38:35,549 INFO spawned: 'run_fastapi' with pid 2179
+2023-06-18 13:38:36,551 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:38:43,227 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:38:44,229 INFO spawned: 'run_fastapi' with pid 2196
+2023-06-18 13:38:45,230 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:38:51,931 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:38:52,933 INFO spawned: 'run_fastapi' with pid 2213
+2023-06-18 13:38:53,934 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:39:00,611 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:39:01,613 INFO spawned: 'run_fastapi' with pid 2230
+2023-06-18 13:39:02,614 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:39:09,275 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:39:10,277 INFO spawned: 'run_fastapi' with pid 2247
+2023-06-18 13:39:11,278 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:39:17,946 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:39:18,948 INFO spawned: 'run_fastapi' with pid 2264
+2023-06-18 13:39:19,950 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:39:26,656 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:39:27,657 INFO spawned: 'run_fastapi' with pid 2281
+2023-06-18 13:39:28,658 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:39:35,441 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:39:36,443 INFO spawned: 'run_fastapi' with pid 2298
+2023-06-18 13:39:37,444 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:39:44,160 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:39:45,161 INFO spawned: 'run_fastapi' with pid 2315
+2023-06-18 13:39:46,163 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:39:52,862 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:39:53,864 INFO spawned: 'run_fastapi' with pid 2332
+2023-06-18 13:39:54,865 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:40:01,578 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:40:02,580 INFO spawned: 'run_fastapi' with pid 2349
+2023-06-18 13:40:03,581 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:40:10,294 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:40:11,296 INFO spawned: 'run_fastapi' with pid 2366
+2023-06-18 13:40:12,297 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:40:19,026 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:40:20,028 INFO spawned: 'run_fastapi' with pid 2383
+2023-06-18 13:40:21,030 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:40:27,733 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:40:28,735 INFO spawned: 'run_fastapi' with pid 2400
+2023-06-18 13:40:29,736 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:40:36,439 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:40:37,441 INFO spawned: 'run_fastapi' with pid 2417
+2023-06-18 13:40:38,443 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:40:45,155 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:40:46,157 INFO spawned: 'run_fastapi' with pid 2434
+2023-06-18 13:40:47,159 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:40:53,870 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:40:54,872 INFO spawned: 'run_fastapi' with pid 2451
+2023-06-18 13:40:55,873 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:41:02,578 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:41:03,580 INFO spawned: 'run_fastapi' with pid 2468
+2023-06-18 13:41:04,581 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:41:11,290 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:41:12,292 INFO spawned: 'run_fastapi' with pid 2485
+2023-06-18 13:41:13,293 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:41:19,992 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:41:20,993 INFO spawned: 'run_fastapi' with pid 2502
+2023-06-18 13:41:21,995 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:41:28,703 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:41:29,705 INFO spawned: 'run_fastapi' with pid 2519
+2023-06-18 13:41:30,706 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:41:37,415 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:41:38,417 INFO spawned: 'run_fastapi' with pid 2536
+2023-06-18 13:41:39,418 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:41:46,109 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:41:47,111 INFO spawned: 'run_fastapi' with pid 2553
+2023-06-18 13:41:48,112 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:41:54,816 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:41:55,817 INFO spawned: 'run_fastapi' with pid 2570
+2023-06-18 13:41:56,819 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:42:03,517 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:42:04,518 INFO spawned: 'run_fastapi' with pid 2587
+2023-06-18 13:42:05,520 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:42:12,221 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:42:13,223 INFO spawned: 'run_fastapi' with pid 2604
+2023-06-18 13:42:14,224 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:42:20,936 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:42:21,937 INFO spawned: 'run_fastapi' with pid 2621
+2023-06-18 13:42:22,939 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:42:29,631 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:42:30,632 INFO spawned: 'run_fastapi' with pid 2638
+2023-06-18 13:42:31,634 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:42:38,413 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:42:39,415 INFO spawned: 'run_fastapi' with pid 2655
+2023-06-18 13:42:40,417 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:42:47,159 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:42:48,161 INFO spawned: 'run_fastapi' with pid 2672
+2023-06-18 13:42:49,162 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:42:55,853 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:42:56,854 INFO spawned: 'run_fastapi' with pid 2689
+2023-06-18 13:42:57,855 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:43:04,585 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:43:05,587 INFO spawned: 'run_fastapi' with pid 2706
+2023-06-18 13:43:06,588 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:43:13,299 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:43:14,301 INFO spawned: 'run_fastapi' with pid 2723
+2023-06-18 13:43:15,302 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:43:21,987 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:43:22,989 INFO spawned: 'run_fastapi' with pid 2740
+2023-06-18 13:43:23,990 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:43:30,705 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:43:31,707 INFO spawned: 'run_fastapi' with pid 2757
+2023-06-18 13:43:32,708 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:43:39,414 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:43:40,416 INFO spawned: 'run_fastapi' with pid 2774
+2023-06-18 13:43:41,418 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:43:48,112 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:43:49,115 INFO spawned: 'run_fastapi' with pid 2791
+2023-06-18 13:43:50,116 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:43:56,841 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:43:57,843 INFO spawned: 'run_fastapi' with pid 2808
+2023-06-18 13:43:58,844 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:44:05,558 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:44:06,560 INFO spawned: 'run_fastapi' with pid 2825
+2023-06-18 13:44:07,562 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:44:14,258 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:44:15,260 INFO spawned: 'run_fastapi' with pid 2842
+2023-06-18 13:44:16,261 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:44:22,994 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:44:23,996 INFO spawned: 'run_fastapi' with pid 2859
+2023-06-18 13:44:24,998 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:44:31,699 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:44:32,701 INFO spawned: 'run_fastapi' with pid 2876
+2023-06-18 13:44:33,703 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:44:40,405 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:44:41,407 INFO spawned: 'run_fastapi' with pid 2893
+2023-06-18 13:44:42,408 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:44:49,119 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:44:50,121 INFO spawned: 'run_fastapi' with pid 2910
+2023-06-18 13:44:51,122 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:44:57,838 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:44:58,840 INFO spawned: 'run_fastapi' with pid 2927
+2023-06-18 13:44:59,842 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:45:06,540 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:45:07,542 INFO spawned: 'run_fastapi' with pid 2944
+2023-06-18 13:45:08,543 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:45:15,263 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:45:16,265 INFO spawned: 'run_fastapi' with pid 2961
+2023-06-18 13:45:17,267 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:45:23,979 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:45:24,981 INFO spawned: 'run_fastapi' with pid 2978
+2023-06-18 13:45:25,982 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:45:32,693 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:45:33,694 INFO spawned: 'run_fastapi' with pid 2995
+2023-06-18 13:45:34,695 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:45:41,411 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:45:42,413 INFO spawned: 'run_fastapi' with pid 3012
+2023-06-18 13:45:43,415 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:45:50,139 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:45:51,141 INFO spawned: 'run_fastapi' with pid 3029
+2023-06-18 13:45:52,142 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:45:58,843 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:45:59,845 INFO spawned: 'run_fastapi' with pid 3046
+2023-06-18 13:46:00,847 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:46:07,563 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:46:08,565 INFO spawned: 'run_fastapi' with pid 3063
+2023-06-18 13:46:09,567 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:46:16,277 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:46:17,279 INFO spawned: 'run_fastapi' with pid 3080
+2023-06-18 13:46:18,280 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:46:24,985 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:46:25,987 INFO spawned: 'run_fastapi' with pid 3097
+2023-06-18 13:46:26,989 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:46:33,698 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:46:34,700 INFO spawned: 'run_fastapi' with pid 3114
+2023-06-18 13:46:35,701 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:46:42,410 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:46:43,412 INFO spawned: 'run_fastapi' with pid 3131
+2023-06-18 13:46:44,413 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:46:51,122 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:46:52,124 INFO spawned: 'run_fastapi' with pid 3148
+2023-06-18 13:46:53,125 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:46:59,848 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:47:00,849 INFO spawned: 'run_fastapi' with pid 3165
+2023-06-18 13:47:01,851 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:47:08,576 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:47:09,578 INFO spawned: 'run_fastapi' with pid 3182
+2023-06-18 13:47:10,579 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:47:17,313 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:47:18,315 INFO spawned: 'run_fastapi' with pid 3199
+2023-06-18 13:47:19,317 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:47:26,044 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:47:27,046 INFO spawned: 'run_fastapi' with pid 3216
+2023-06-18 13:47:28,047 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:47:34,760 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:47:35,762 INFO spawned: 'run_fastapi' with pid 3233
+2023-06-18 13:47:36,763 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:47:43,469 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:47:44,471 INFO spawned: 'run_fastapi' with pid 3250
+2023-06-18 13:47:45,472 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:47:52,196 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:47:53,198 INFO spawned: 'run_fastapi' with pid 3267
+2023-06-18 13:47:54,199 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:48:00,935 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:48:01,937 INFO spawned: 'run_fastapi' with pid 3284
+2023-06-18 13:48:02,939 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:48:09,654 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:48:10,656 INFO spawned: 'run_fastapi' with pid 3301
+2023-06-18 13:48:11,658 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:48:18,393 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:48:19,395 INFO spawned: 'run_fastapi' with pid 3318
+2023-06-18 13:48:20,396 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:48:27,150 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:48:28,152 INFO spawned: 'run_fastapi' with pid 3335
+2023-06-18 13:48:29,153 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:48:35,849 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:48:36,851 INFO spawned: 'run_fastapi' with pid 3352
+2023-06-18 13:48:37,852 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:48:44,566 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:48:45,568 INFO spawned: 'run_fastapi' with pid 3369
+2023-06-18 13:48:46,569 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:48:53,277 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:48:54,279 INFO spawned: 'run_fastapi' with pid 3386
+2023-06-18 13:48:55,280 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:49:01,965 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:49:02,967 INFO spawned: 'run_fastapi' with pid 3403
+2023-06-18 13:49:03,968 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:49:10,705 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:49:11,707 INFO spawned: 'run_fastapi' with pid 3420
+2023-06-18 13:49:12,709 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:49:19,429 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:49:20,431 INFO spawned: 'run_fastapi' with pid 3437
+2023-06-18 13:49:21,433 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:49:28,131 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:49:29,133 INFO spawned: 'run_fastapi' with pid 3454
+2023-06-18 13:49:30,134 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:49:36,864 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:49:37,865 INFO spawned: 'run_fastapi' with pid 3471
+2023-06-18 13:49:38,867 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:49:45,573 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:49:46,575 INFO spawned: 'run_fastapi' with pid 3488
+2023-06-18 13:49:47,577 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:49:54,281 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:49:55,283 INFO spawned: 'run_fastapi' with pid 3505
+2023-06-18 13:49:56,284 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:50:03,021 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:50:04,023 INFO spawned: 'run_fastapi' with pid 3522
+2023-06-18 13:50:05,024 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:50:11,732 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:50:12,734 INFO spawned: 'run_fastapi' with pid 3539
+2023-06-18 13:50:13,735 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:50:20,427 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:50:21,429 INFO spawned: 'run_fastapi' with pid 3556
+2023-06-18 13:50:22,430 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:50:29,154 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:50:30,156 INFO spawned: 'run_fastapi' with pid 3573
+2023-06-18 13:50:31,157 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:50:37,862 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:50:38,864 INFO spawned: 'run_fastapi' with pid 3590
+2023-06-18 13:50:39,865 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:50:46,588 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:50:47,590 INFO spawned: 'run_fastapi' with pid 3607
+2023-06-18 13:50:48,591 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:50:55,317 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:50:56,319 INFO spawned: 'run_fastapi' with pid 3624
+2023-06-18 13:50:57,320 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:51:04,020 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:51:05,022 INFO spawned: 'run_fastapi' with pid 3641
+2023-06-18 13:51:06,024 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:51:12,725 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:51:13,727 INFO spawned: 'run_fastapi' with pid 3658
+2023-06-18 13:51:14,728 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:51:21,441 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:51:22,443 INFO spawned: 'run_fastapi' with pid 3675
+2023-06-18 13:51:23,445 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:51:30,168 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:51:31,170 INFO spawned: 'run_fastapi' with pid 3692
+2023-06-18 13:51:32,171 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:51:38,889 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:51:39,891 INFO spawned: 'run_fastapi' with pid 3709
+2023-06-18 13:51:40,892 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:51:47,608 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:51:48,610 INFO spawned: 'run_fastapi' with pid 3726
+2023-06-18 13:51:49,611 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:51:56,326 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:51:57,328 INFO spawned: 'run_fastapi' with pid 3743
+2023-06-18 13:51:58,330 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:52:05,047 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:52:06,049 INFO spawned: 'run_fastapi' with pid 3760
+2023-06-18 13:52:07,050 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:52:13,767 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:52:14,769 INFO spawned: 'run_fastapi' with pid 3777
+2023-06-18 13:52:15,770 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:52:22,473 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:52:23,475 INFO spawned: 'run_fastapi' with pid 3794
+2023-06-18 13:52:24,477 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:52:31,176 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:52:32,178 INFO spawned: 'run_fastapi' with pid 3811
+2023-06-18 13:52:33,180 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:52:39,895 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:52:40,897 INFO spawned: 'run_fastapi' with pid 3828
+2023-06-18 13:52:41,899 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:52:48,600 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:52:49,601 INFO spawned: 'run_fastapi' with pid 3845
+2023-06-18 13:52:50,603 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:52:57,315 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:52:58,317 INFO spawned: 'run_fastapi' with pid 3862
+2023-06-18 13:52:59,318 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:53:06,024 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:53:07,026 INFO spawned: 'run_fastapi' with pid 3879
+2023-06-18 13:53:08,028 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:53:14,758 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:53:15,760 INFO spawned: 'run_fastapi' with pid 3896
+2023-06-18 13:53:16,761 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:53:23,476 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:53:24,478 INFO spawned: 'run_fastapi' with pid 3913
+2023-06-18 13:53:25,480 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:53:32,196 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:53:33,198 INFO spawned: 'run_fastapi' with pid 3930
+2023-06-18 13:53:34,200 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:53:40,921 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:53:41,923 INFO spawned: 'run_fastapi' with pid 3947
+2023-06-18 13:53:42,924 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:53:49,617 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:53:50,619 INFO spawned: 'run_fastapi' with pid 3964
+2023-06-18 13:53:51,620 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:53:58,345 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:53:59,347 INFO spawned: 'run_fastapi' with pid 3981
+2023-06-18 13:54:00,348 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:54:07,073 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:54:08,075 INFO spawned: 'run_fastapi' with pid 3998
+2023-06-18 13:54:09,076 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:54:15,767 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:54:16,769 INFO spawned: 'run_fastapi' with pid 4015
+2023-06-18 13:54:17,771 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:54:24,486 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:54:25,488 INFO spawned: 'run_fastapi' with pid 4032
+2023-06-18 13:54:26,489 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:54:33,184 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:54:34,186 INFO spawned: 'run_fastapi' with pid 4049
+2023-06-18 13:54:35,187 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:54:41,882 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:54:42,884 INFO spawned: 'run_fastapi' with pid 4066
+2023-06-18 13:54:43,885 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:54:50,616 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:54:51,618 INFO spawned: 'run_fastapi' with pid 4083
+2023-06-18 13:54:52,620 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:54:59,325 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:55:00,327 INFO spawned: 'run_fastapi' with pid 4100
+2023-06-18 13:55:01,328 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:55:08,031 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:55:09,033 INFO spawned: 'run_fastapi' with pid 4117
+2023-06-18 13:55:10,034 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:55:16,758 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:55:17,760 INFO spawned: 'run_fastapi' with pid 4134
+2023-06-18 13:55:18,761 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:55:25,473 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:55:26,475 INFO spawned: 'run_fastapi' with pid 4151
+2023-06-18 13:55:27,476 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:55:34,180 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:55:35,182 INFO spawned: 'run_fastapi' with pid 4168
+2023-06-18 13:55:36,184 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:55:42,908 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:55:43,909 INFO spawned: 'run_fastapi' with pid 4185
+2023-06-18 13:55:44,911 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:55:51,620 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:55:52,621 INFO spawned: 'run_fastapi' with pid 4202
+2023-06-18 13:55:53,622 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:56:00,320 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:56:01,321 INFO spawned: 'run_fastapi' with pid 4219
+2023-06-18 13:56:02,323 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:56:09,062 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:56:10,064 INFO spawned: 'run_fastapi' with pid 4236
+2023-06-18 13:56:11,065 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:56:17,768 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:56:18,770 INFO spawned: 'run_fastapi' with pid 4253
+2023-06-18 13:56:19,771 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:56:26,486 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:56:27,489 INFO spawned: 'run_fastapi' with pid 4270
+2023-06-18 13:56:28,490 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:56:35,227 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:56:36,229 INFO spawned: 'run_fastapi' with pid 4287
+2023-06-18 13:56:37,230 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:56:43,951 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:56:44,953 INFO spawned: 'run_fastapi' with pid 4304
+2023-06-18 13:56:45,954 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:56:52,666 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:56:53,668 INFO spawned: 'run_fastapi' with pid 4321
+2023-06-18 13:56:54,669 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:57:01,398 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:57:02,400 INFO spawned: 'run_fastapi' with pid 4338
+2023-06-18 13:57:03,401 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:57:10,127 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:57:11,129 INFO spawned: 'run_fastapi' with pid 4355
+2023-06-18 13:57:12,131 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:57:18,830 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:57:19,832 INFO spawned: 'run_fastapi' with pid 4372
+2023-06-18 13:57:20,833 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:57:27,548 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:57:28,549 INFO spawned: 'run_fastapi' with pid 4389
+2023-06-18 13:57:29,551 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:57:36,275 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:57:37,277 INFO spawned: 'run_fastapi' with pid 4406
+2023-06-18 13:57:38,278 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:57:45,147 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:57:46,149 INFO spawned: 'run_fastapi' with pid 4423
+2023-06-18 13:57:47,150 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:57:53,843 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:57:54,845 INFO spawned: 'run_fastapi' with pid 4440
+2023-06-18 13:57:55,846 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:58:02,564 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:58:03,566 INFO spawned: 'run_fastapi' with pid 4457
+2023-06-18 13:58:04,568 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:58:11,411 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:58:12,413 INFO spawned: 'run_fastapi' with pid 4474
+2023-06-18 13:58:13,415 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:58:20,316 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:58:21,318 INFO spawned: 'run_fastapi' with pid 4491
+2023-06-18 13:58:22,319 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:58:29,095 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:58:30,097 INFO spawned: 'run_fastapi' with pid 4508
+2023-06-18 13:58:31,098 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:58:37,880 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:58:38,882 INFO spawned: 'run_fastapi' with pid 4525
+2023-06-18 13:58:39,883 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:58:46,612 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:58:47,614 INFO spawned: 'run_fastapi' with pid 4542
+2023-06-18 13:58:48,616 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:58:55,353 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:58:56,355 INFO spawned: 'run_fastapi' with pid 4559
+2023-06-18 13:58:57,356 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:59:04,085 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:59:05,086 INFO spawned: 'run_fastapi' with pid 4576
+2023-06-18 13:59:06,087 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:59:12,846 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:59:13,848 INFO spawned: 'run_fastapi' with pid 4593
+2023-06-18 13:59:14,849 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:59:21,593 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:59:22,595 INFO spawned: 'run_fastapi' with pid 4610
+2023-06-18 13:59:23,596 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:59:30,365 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 13:59:31,367 INFO spawned: 'run_fastapi' with pid 4628
+2023-06-18 13:59:32,368 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 13:59:33,369 WARN received SIGTERM indicating exit request
+2023-06-18 13:59:33,369 INFO waiting for run_fastapi to die
+2023-06-18 13:59:34,377 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 14:01:41,584 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:01:41,586 INFO supervisord started with pid 1
+2023-06-18 14:01:42,588 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:01:43,589 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:01:50,545 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:01:51,547 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 14:01:52,548 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:01:59,309 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:02:00,311 INFO spawned: 'run_fastapi' with pid 47
+2023-06-18 14:02:01,312 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:02:08,054 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:02:09,057 INFO spawned: 'run_fastapi' with pid 65
+2023-06-18 14:02:10,058 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:02:16,782 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:02:17,784 INFO spawned: 'run_fastapi' with pid 82
+2023-06-18 14:02:18,785 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:02:25,520 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:02:26,521 INFO spawned: 'run_fastapi' with pid 99
+2023-06-18 14:02:27,523 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:02:34,276 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:02:35,278 INFO spawned: 'run_fastapi' with pid 116
+2023-06-18 14:02:36,280 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:02:43,048 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:02:44,049 INFO spawned: 'run_fastapi' with pid 134
+2023-06-18 14:02:45,051 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:02:51,816 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:02:52,817 INFO spawned: 'run_fastapi' with pid 151
+2023-06-18 14:02:53,819 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:03:00,550 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:03:01,552 INFO spawned: 'run_fastapi' with pid 170
+2023-06-18 14:03:02,553 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:03:09,287 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:03:10,289 INFO spawned: 'run_fastapi' with pid 187
+2023-06-18 14:03:11,291 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:03:18,025 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:03:19,027 INFO spawned: 'run_fastapi' with pid 206
+2023-06-18 14:03:20,028 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:03:26,772 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:03:27,774 INFO spawned: 'run_fastapi' with pid 224
+2023-06-18 14:03:28,776 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:03:35,507 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:03:36,509 INFO spawned: 'run_fastapi' with pid 242
+2023-06-18 14:03:37,510 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:03:44,292 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:03:45,293 INFO spawned: 'run_fastapi' with pid 259
+2023-06-18 14:03:46,295 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:03:53,107 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:03:54,109 INFO spawned: 'run_fastapi' with pid 278
+2023-06-18 14:03:55,110 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:01,869 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:02,871 INFO spawned: 'run_fastapi' with pid 295
+2023-06-18 14:04:03,872 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:10,649 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:11,651 INFO spawned: 'run_fastapi' with pid 314
+2023-06-18 14:04:12,653 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:14,368 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:15,370 INFO spawned: 'run_fastapi' with pid 331
+2023-06-18 14:04:16,371 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:18,109 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:19,111 INFO spawned: 'run_fastapi' with pid 348
+2023-06-18 14:04:20,112 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:21,846 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:22,848 INFO spawned: 'run_fastapi' with pid 365
+2023-06-18 14:04:23,849 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:25,589 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:26,590 INFO spawned: 'run_fastapi' with pid 382
+2023-06-18 14:04:27,592 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:29,331 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:30,333 INFO spawned: 'run_fastapi' with pid 399
+2023-06-18 14:04:31,334 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:33,128 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:34,129 INFO spawned: 'run_fastapi' with pid 416
+2023-06-18 14:04:34,129 WARN received SIGTERM indicating exit request
+2023-06-18 14:04:34,130 INFO waiting for run_fastapi to die
+2023-06-18 14:04:36,957 WARN stopped: run_fastapi (exit status 1)
+2023-06-18 14:04:51,565 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:04:51,566 INFO supervisord started with pid 1
+2023-06-18 14:04:52,568 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:04:53,569 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:55,447 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:04:56,449 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 14:04:57,450 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:04:59,176 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:00,178 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 14:05:01,180 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:02,926 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:03,928 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 14:05:04,929 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:06,644 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:07,646 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 14:05:08,647 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:10,349 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:11,351 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 14:05:12,352 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:14,089 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:15,091 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 14:05:16,092 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:17,818 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:18,820 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 14:05:19,821 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:21,549 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:22,551 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 14:05:23,552 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:25,280 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:26,282 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 14:05:27,283 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:29,152 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:30,153 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 14:05:31,155 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:32,944 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:33,945 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 14:05:34,947 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:36,739 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:37,741 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 14:05:38,742 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:40,526 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:41,528 INFO spawned: 'run_fastapi' with pid 228
+2023-06-18 14:05:42,529 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:44,289 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:45,291 INFO spawned: 'run_fastapi' with pid 245
+2023-06-18 14:05:46,293 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:48,051 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:49,053 INFO spawned: 'run_fastapi' with pid 262
+2023-06-18 14:05:50,055 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:51,773 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:52,775 INFO spawned: 'run_fastapi' with pid 279
+2023-06-18 14:05:53,776 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:55,529 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:05:56,531 INFO spawned: 'run_fastapi' with pid 296
+2023-06-18 14:05:57,532 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:05:59,260 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:00,261 INFO spawned: 'run_fastapi' with pid 313
+2023-06-18 14:06:01,263 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:03,049 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:04,051 INFO spawned: 'run_fastapi' with pid 330
+2023-06-18 14:06:05,052 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:06,775 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:07,777 INFO spawned: 'run_fastapi' with pid 347
+2023-06-18 14:06:08,778 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:10,535 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:11,537 INFO spawned: 'run_fastapi' with pid 364
+2023-06-18 14:06:12,538 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:14,249 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:15,251 INFO spawned: 'run_fastapi' with pid 381
+2023-06-18 14:06:16,252 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:17,979 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:18,981 INFO spawned: 'run_fastapi' with pid 398
+2023-06-18 14:06:19,983 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:21,717 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:22,719 INFO spawned: 'run_fastapi' with pid 415
+2023-06-18 14:06:23,720 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:25,467 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:26,469 INFO spawned: 'run_fastapi' with pid 432
+2023-06-18 14:06:27,471 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:29,225 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:30,227 INFO spawned: 'run_fastapi' with pid 449
+2023-06-18 14:06:31,228 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:32,971 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:33,973 INFO spawned: 'run_fastapi' with pid 466
+2023-06-18 14:06:34,975 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:36,707 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:37,709 INFO spawned: 'run_fastapi' with pid 483
+2023-06-18 14:06:38,710 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:40,461 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:41,463 INFO spawned: 'run_fastapi' with pid 500
+2023-06-18 14:06:42,464 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:44,241 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:45,243 INFO spawned: 'run_fastapi' with pid 517
+2023-06-18 14:06:46,244 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:06:48,128 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:06:49,130 INFO spawned: 'run_fastapi' with pid 534
+2023-06-18 14:06:49,130 WARN received SIGTERM indicating exit request
+2023-06-18 14:06:49,130 INFO waiting for run_fastapi to die
+2023-06-18 14:06:52,057 WARN stopped: run_fastapi (exit status 1)
+2023-06-18 14:07:05,010 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:07:05,011 INFO supervisord started with pid 1
+2023-06-18 14:07:06,013 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:07:07,014 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:08,981 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:09,982 INFO spawned: 'run_fastapi' with pid 24
+2023-06-18 14:07:10,984 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:12,712 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:13,714 INFO spawned: 'run_fastapi' with pid 41
+2023-06-18 14:07:14,715 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:16,459 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:17,461 INFO spawned: 'run_fastapi' with pid 58
+2023-06-18 14:07:18,462 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:20,184 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:21,185 INFO spawned: 'run_fastapi' with pid 75
+2023-06-18 14:07:22,187 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:23,924 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:24,925 INFO spawned: 'run_fastapi' with pid 92
+2023-06-18 14:07:25,927 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:27,649 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:28,651 INFO spawned: 'run_fastapi' with pid 109
+2023-06-18 14:07:29,652 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:31,462 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:32,464 INFO spawned: 'run_fastapi' with pid 126
+2023-06-18 14:07:33,465 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:35,236 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:36,238 INFO spawned: 'run_fastapi' with pid 143
+2023-06-18 14:07:37,240 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:39,091 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:40,093 INFO spawned: 'run_fastapi' with pid 160
+2023-06-18 14:07:41,095 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:42,827 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:43,829 INFO spawned: 'run_fastapi' with pid 177
+2023-06-18 14:07:44,831 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:46,553 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:47,555 INFO spawned: 'run_fastapi' with pid 194
+2023-06-18 14:07:48,557 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:50,482 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:51,484 INFO spawned: 'run_fastapi' with pid 211
+2023-06-18 14:07:52,485 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:54,308 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:55,310 INFO spawned: 'run_fastapi' with pid 228
+2023-06-18 14:07:56,311 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:07:58,061 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:07:59,063 INFO spawned: 'run_fastapi' with pid 245
+2023-06-18 14:08:00,065 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:01,791 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:02,793 INFO spawned: 'run_fastapi' with pid 262
+2023-06-18 14:08:03,794 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:05,491 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:06,493 INFO spawned: 'run_fastapi' with pid 279
+2023-06-18 14:08:07,494 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:09,212 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:10,213 INFO spawned: 'run_fastapi' with pid 296
+2023-06-18 14:08:11,215 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:13,005 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:14,007 INFO spawned: 'run_fastapi' with pid 313
+2023-06-18 14:08:15,008 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:16,775 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:17,777 INFO spawned: 'run_fastapi' with pid 330
+2023-06-18 14:08:18,778 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:25,590 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:26,592 INFO spawned: 'run_fastapi' with pid 347
+2023-06-18 14:08:27,593 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:29,290 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:30,292 INFO spawned: 'run_fastapi' with pid 364
+2023-06-18 14:08:31,293 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:33,151 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:34,153 INFO spawned: 'run_fastapi' with pid 381
+2023-06-18 14:08:35,154 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:36,921 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:37,923 INFO spawned: 'run_fastapi' with pid 398
+2023-06-18 14:08:38,924 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:40,606 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:41,608 INFO spawned: 'run_fastapi' with pid 415
+2023-06-18 14:08:42,609 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:44,319 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:45,321 INFO spawned: 'run_fastapi' with pid 432
+2023-06-18 14:08:46,323 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:48,144 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:49,145 INFO spawned: 'run_fastapi' with pid 449
+2023-06-18 14:08:50,147 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:51,893 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:52,895 INFO spawned: 'run_fastapi' with pid 466
+2023-06-18 14:08:53,896 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:08:55,672 WARN exited: run_fastapi (exit status 1; not expected)
+2023-06-18 14:08:56,673 INFO spawned: 'run_fastapi' with pid 483
+2023-06-18 14:08:57,675 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:09:27,905 WARN received SIGTERM indicating exit request
+2023-06-18 14:09:27,906 INFO waiting for run_fastapi to die
+2023-06-18 14:09:29,199 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 14:10:41,386 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:10:41,387 INFO supervisord started with pid 1
+2023-06-18 14:10:42,389 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:10:43,389 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:34:06,079 WARN received SIGTERM indicating exit request
+2023-06-18 14:34:06,079 INFO waiting for run_fastapi to die
+2023-06-18 14:34:07,380 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 14:35:00,889 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:35:00,890 INFO supervisord started with pid 1
+2023-06-18 14:35:01,892 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:35:02,893 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:38:10,355 WARN received SIGTERM indicating exit request
+2023-06-18 14:38:10,355 INFO waiting for run_fastapi to die
+2023-06-18 14:38:11,683 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 14:38:50,497 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:38:50,498 INFO supervisord started with pid 1
+2023-06-18 14:38:51,500 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:38:52,501 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:42:07,630 WARN received SIGTERM indicating exit request
+2023-06-18 14:42:07,630 INFO waiting for run_fastapi to die
+2023-06-18 14:42:08,981 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 14:46:57,710 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:46:57,711 INFO supervisord started with pid 1
+2023-06-18 14:46:58,713 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:46:59,715 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:52:14,044 WARN received SIGTERM indicating exit request
+2023-06-18 14:52:14,044 INFO waiting for run_fastapi to die
+2023-06-18 14:52:15,327 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 14:52:43,308 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:52:43,309 INFO supervisord started with pid 1
+2023-06-18 14:52:44,311 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:52:45,312 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:56:18,527 WARN received SIGTERM indicating exit request
+2023-06-18 14:56:18,528 INFO waiting for run_fastapi to die
+2023-06-18 14:56:19,785 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 14:56:45,197 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 14:56:45,198 INFO supervisord started with pid 1
+2023-06-18 14:56:46,200 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 14:56:47,202 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 14:58:57,800 WARN received SIGTERM indicating exit request
+2023-06-18 14:58:57,800 INFO waiting for run_fastapi to die
+2023-06-18 14:58:59,126 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 15:00:08,148 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 15:00:08,150 INFO supervisord started with pid 1
+2023-06-18 15:00:09,152 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 15:00:10,153 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 15:21:17,392 WARN received SIGTERM indicating exit request
+2023-06-18 15:21:17,392 INFO waiting for run_fastapi to die
+2023-06-18 15:21:18,705 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 15:21:44,303 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 15:21:44,304 INFO supervisord started with pid 1
+2023-06-18 15:21:45,305 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 15:21:46,307 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 15:24:39,144 WARN received SIGTERM indicating exit request
+2023-06-18 15:24:39,144 INFO waiting for run_fastapi to die
+2023-06-18 15:24:40,412 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 15:25:06,502 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 15:25:06,503 INFO supervisord started with pid 1
+2023-06-18 15:25:07,505 INFO spawned: 'run_fastapi' with pid 6
+2023-06-18 15:25:08,507 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 15:38:24,302 WARN received SIGTERM indicating exit request
+2023-06-18 15:38:24,302 INFO waiting for run_fastapi to die
+2023-06-18 15:38:25,601 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 15:38:43,477 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 15:38:43,479 INFO supervisord started with pid 1
+2023-06-18 15:38:44,481 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 15:38:45,483 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 15:51:05,631 WARN received SIGTERM indicating exit request
+2023-06-18 15:51:05,632 INFO waiting for run_fastapi to die
+2023-06-18 15:51:06,897 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 15:51:20,210 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 15:51:20,211 INFO supervisord started with pid 1
+2023-06-18 15:51:21,213 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 15:51:22,215 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 15:54:53,813 WARN received SIGTERM indicating exit request
+2023-06-18 15:54:53,813 INFO waiting for run_fastapi to die
+2023-06-18 15:54:54,846 WARN stopped: run_fastapi (terminated by SIGTERM)
+2023-06-18 15:55:42,789 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 15:55:42,790 INFO supervisord started with pid 1
+2023-06-18 15:55:43,792 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 15:55:44,793 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 15:57:44,823 WARN received SIGTERM indicating exit request
+2023-06-18 15:57:44,823 INFO waiting for run_fastapi to die
+2023-06-18 15:57:46,102 INFO stopped: run_fastapi (exit status 0)
+2023-06-18 15:57:59,723 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-06-18 15:57:59,724 INFO supervisord started with pid 1
+2023-06-18 15:58:00,725 INFO spawned: 'run_fastapi' with pid 7
+2023-06-18 15:58:01,727 INFO success: run_fastapi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-06-18 18:11:12,131 WARN received SIGTERM indicating exit request
+2023-06-18 18:11:12,131 INFO waiting for run_fastapi to die
+2023-06-18 18:11:13,379 INFO stopped: run_fastapi (exit status 0)

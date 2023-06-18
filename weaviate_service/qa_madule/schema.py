@@ -1,21 +1,5 @@
-document_class = {
+document = {
     "class": "Document",
-    "description": "A class called document",
-    "vectorizer": "text2vec-transformers",
-    "properties":
-    [
-        {
-            "name": "content",
-            "description": "Content that will be vectorized",
-            "dataType": ["text"]
-               }
-
-    ],
-
-}
-
-document_with_name_class = {
-    "class": "Document_with_name",
     "description": "A class called document",
     "vectorizer": "text2vec-transformers",
     "properties":
@@ -26,7 +10,7 @@ document_with_name_class = {
             "dataType": ["text"]
                },
         {
-            "name": "abs",
+            "name": "abstract",
             "description": "Content that will be vectorized",
             "dataType": ["text"]
                }
