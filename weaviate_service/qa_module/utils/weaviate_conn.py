@@ -4,6 +4,7 @@ from ..conf.conf import  Weaviate_HOST
 from ..utils.clean_text import CleanText
 import weaviate
 import os
+import time
 
 
 
@@ -38,26 +39,44 @@ class WeaviateConn():
                     }
                     self.client.batch.add_data_object(properties, "Document")
 
-    def insert_custom_with_name(self, class_name, data, batch_size=100):
+    def insert_custom_with_name(self, class_name, data, batch_size=20):
         with self.client.batch as batch:
             batch.batch_size = batch_size
-            for i, item in enumerate(data):
-                print(f"importing event: {i+1}")
-                properties = {
-                    "name": item["name"],
-                    "abstract": item["abstract"]
-                }
-                self.client.batch.add_data_object(properties,class_name)
-    def insert_custom_sample(self, data, batch_size=100):
+            batch.timeout = 30  # Set the timeout value to 30 seconds
+            retry_count = 0
+            while retry_count < 3:
+                try:
+                    for i, item in enumerate(data):
+                        print(f"importing event: {i+1}")
+                        properties = {
+                            "name": item["name"],
+                            "abstract": item["abstract"]
+                        }
+                        self.client.batch.add_data_object(properties,class_name)
+                    break  # Break out of the retry loop if import is successful
+                except Exception as e:
+                    retry_count += 1
+                    print(f"[ERROR] Batch ReadTimeout Exception occurred! Retrying in 2s. [{retry_count}/3]")
+                    time.sleep(2)
+    def insert_custom_sample(self, data, batch_size=20):
         with self.client.batch as batch:
             batch.batch_size = batch_size
-            for i, d in enumerate(data['doc_data']):
-                print(f"importing event: {i+1}")
-                properties = {
-                    "text": self.cleaner.clean_text(d["text"])
-                }
-                self.client.batch.add_data_object(properties, "Document")
-
+            # Increase the timeout value
+            batch.timeout = 30  # Set the timeout value to 30 seconds
+            retry_count = 0
+            while retry_count < 3:
+                try:
+                    for i, d in enumerate(data['doc_data']):
+                        print(f"importing event: {i+1}")
+                        properties = {
+                            "text": self.cleaner.clean_text(d["text"])
+                        }
+                        self.client.batch.add_data_object(properties, "Document")
+                    break  # Break out of the retry loop if import is successful
+                except Exception as e:
+                    retry_count += 1
+                    print(f"[ERROR] Batch ReadTimeout Exception occurred! Retrying in 2s. [{retry_count}/3]")
+                    time.sleep(2)  # Wait for 2 seconds before retrying
     def check_batch_result(self, results: dict):
         if results is not None:
             for result in results:
