@@ -1,11 +1,10 @@
-from qa_madule.conf.conf import (
-    Weaviate_HOST
-)
-from qa_madule.utils.clean_text import CleanText
-import weaviate
-import os
 import sys
 sys.path.insert(0, '..')
+from ..conf.conf import  Weaviate_HOST
+from ..utils.clean_text import CleanText
+import weaviate
+import os
+
 
 
 class WeaviateConn():
@@ -129,8 +128,3 @@ class SingeltonWeaviateConn:
             cls.instance = WeaviateConn()
         return cls.instance
 
-
-if __name__ == "__main__":
-    conn = SingeltonWeaviateConn.get()
-
-    print(conn.connect().is_live())

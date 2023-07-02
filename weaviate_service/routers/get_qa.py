@@ -1,7 +1,7 @@
 import json
 from pydantic import BaseModel
 from fastapi import APIRouter, Response
-from qa_madule.weaviate_manager import WeaviateManager
+from qa_module.weaviate_manager import WeaviateManager
 
 
 class GetQA(BaseModel):
